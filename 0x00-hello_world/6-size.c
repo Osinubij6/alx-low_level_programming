@@ -1,4 +1,4 @@
-{ #include <stdio.h>
+#include <stdio.h>
 
     /**
      * main - Entry point
@@ -9,4 +9,3 @@
       int a; long int b; long long int c; char d; float f;
       return (0);
     }
-}
