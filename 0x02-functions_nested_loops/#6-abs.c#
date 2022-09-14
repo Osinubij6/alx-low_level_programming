@@ -1,0 +1,8 @@
+#include "main.h"
+#include <stdio.h>
+
+/**
+ * -abs - Check main
+ * @r: An Integre input
+ * Description: This function returns absolute value of a number
+ ******** f
