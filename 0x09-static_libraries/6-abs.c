@@ -1,28 +1,15 @@
 #include "main.h"
 
 /**
-* _abs - Computes the absolute value
-* of an integer.
-*
-* @i: input number as an integer.
-* Description - A function that computes the absolute
-* value of an integer.
-*
-* Return: absolute value
-*/
-
-int _abs(int i)
-
+ *_abs - Check Holberton
+ * @r: An integre input
+ * Description: This function returns absolute value of a number
+ * Return: Absolut value of number r
+ */
+int _abs(int r)
 {
-if (i >= 0)
-
-{
-return (i);
-}
-
-else
-
-{
-return (i * -1);
-}
+	if (r >= 0)
+		return (r);
+	else
+		return (r * -1);
 }
